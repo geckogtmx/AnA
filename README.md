@@ -38,8 +38,8 @@ AnA reduces 4-5 hours of manual research to 60-90 minutes of AI-assisted workflo
 
 1. **Clone and initialize:**
 ```bash
-git clone https://github.com/yourusername/ana-ai-news-agent.git
-cd ana-ai-news-agent
+git clone https://github.com/geckogtmx/AnA
+cd AnA
 ```
 
 2. **Create project structure:**
@@ -268,13 +268,12 @@ MIT License - See LICENSE file
 **Project:** Department of One  
 **Purpose:** Empower solo creators to build AI-assisted workflows
 
-Part of the [Department of One](https://github.com/yourusername/department-of-one) ecosystem.
 
 ---
 
 ## Support
 
-Issues and questions: [GitHub Issues](https://github.com/yourusername/ana-ai-news-agent/issues)
+Issues and questions: [GitHub Issues](https://github.com/geckogtmx/AnA/issues)
 
 For detailed build instructions, see the Session Guides in `/docs/Session-Guides/`
 
