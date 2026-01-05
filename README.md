@@ -265,9 +265,7 @@ MIT License - See LICENSE file
 ## Credits
 
 **Built by:** Eduardo García-Torres Resano  
-**Project:** Department of One  
 **Purpose:** Empower solo creators to build AI-assisted workflows
-
 
 ---
 
