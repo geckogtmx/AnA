@@ -1,0 +1,21 @@
+# Outputs (user-generated)
+outputs/*/
+
+# User inputs (may contain personal data)
+inputs/preferred-sources.json
+inputs/topics-input.md
+inputs/markup-archive.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
