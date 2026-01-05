@@ -1,0 +1,27 @@
+[
+  {
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog",
+    "priority": 1
+  },
+  {
+    "source": "Anthropic News",
+    "url": "https://www.anthropic.com/news",
+    "priority": 1
+  },
+  {
+    "source": "Google AI Blog",
+    "url": "https://ai.googleblog.com",
+    "priority": 2
+  },
+  {
+    "source": "DeepMind Blog",
+    "url": "https://www.deepmind.com/blog",
+    "priority": 2
+  },
+  {
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog",
+    "priority": 3
+  }
+]
